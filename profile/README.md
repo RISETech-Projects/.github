@@ -1,4 +1,4 @@
-# RISETech – Portfolio & Solutions 🚀  
+# RISETech 🚀  
 **AI. Embedded Systems. Cloud. Mobile. Web. Identity.**
 
 > _“Transforming ideas into intelligent, scalable, and reliable technology solutions.”_
