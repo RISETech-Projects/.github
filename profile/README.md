@@ -11,7 +11,7 @@
 
 Founded in **2017**, we specialize in intelligent systems, real-time applications, and cross-platform product development—from silicon to the cloud.
 
-📍 **Location**: Rawalpindi, Pakistan  
+📍 **Location**: Islamabad, Pakistan  
 🔗 **Website**: [https://risetech.ai](https://risetech.ai)
 
 ---
